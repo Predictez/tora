@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Hahmlet:wght@600&display=swap");
+
+.htext {
+  font-family: "Hahmlet", serif !important;
+}
+
+/* @media only screen and (max-width: 991px) and (min-width: 769px) {
+  .box-div {
+    width: 52% !important;
+  }
+} */
+
+@media (min-width: 1025px) {
+  .box-div {
+    width: 32% !important;
+  }
+}

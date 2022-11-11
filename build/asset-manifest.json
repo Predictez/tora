@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2083471.chunk.css",
+    "main.js": "/static/js/main.0b62c52d.chunk.js",
+    "main.js.map": "/static/js/main.0b62c52d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.70f4e584.js",
+    "runtime-main.js.map": "/static/js/runtime-main.70f4e584.js.map",
+    "static/js/2.d6070dca.chunk.js": "/static/js/2.d6070dca.chunk.js",
+    "static/js/2.d6070dca.chunk.js.map": "/static/js/2.d6070dca.chunk.js.map",
+    "static/js/3.3243ac64.chunk.js": "/static/js/3.3243ac64.chunk.js",
+    "static/js/3.3243ac64.chunk.js.map": "/static/js/3.3243ac64.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c2083471.chunk.css.map": "/static/css/main.c2083471.chunk.css.map",
+    "static/js/2.d6070dca.chunk.js.LICENSE.txt": "/static/js/2.d6070dca.chunk.js.LICENSE.txt",
+    "static/media/Blog.e9eddaa0.png": "/static/media/Blog.e9eddaa0.png",
+    "static/media/BlogImage.1ed0a0f7.png": "/static/media/BlogImage.1ed0a0f7.png",
+    "static/media/Contact-Background.057434d5.png": "/static/media/Contact-Background.057434d5.png",
+    "static/media/FAQ-Background.f15ae04e.png": "/static/media/FAQ-Background.f15ae04e.png",
+    "static/media/Herobg.f160b25e.png": "/static/media/Herobg.f160b25e.png",
+    "static/media/Homepage-bg-purple.f246cb89.png": "/static/media/Homepage-bg-purple.f246cb89.png",
+    "static/media/How.8b897e52.png": "/static/media/How.8b897e52.png",
+    "static/media/Portfolio-Background.a4b9b349.png": "/static/media/Portfolio-Background.a4b9b349.png",
+    "static/media/Portfolio-bg.3469633d.png": "/static/media/Portfolio-bg.3469633d.png",
+    "static/media/Predictions-Background.4c014538.png": "/static/media/Predictions-Background.4c014538.png",
+    "static/media/Privacy-Background.1278ebb8.png": "/static/media/Privacy-Background.1278ebb8.png",
+    "static/media/Redeem-Background.fe558f01.png": "/static/media/Redeem-Background.fe558f01.png",
+    "static/media/Telegram.08b2de8d.svg": "/static/media/Telegram.08b2de8d.svg",
+    "static/media/TermsUse.5b36311d.png": "/static/media/TermsUse.5b36311d.png",
+    "static/media/Twitter.18b6f403.svg": "/static/media/Twitter.18b6f403.svg",
+    "static/media/Whitelistme-Background.b06e4304.png": "/static/media/Whitelistme-Background.b06e4304.png",
+    "static/media/lazyphone.c30ea932.png": "/static/media/lazyphone.c30ea932.png",
+    "static/media/phone-purple.6a0b0f22.png": "/static/media/phone-purple.6a0b0f22.png",
+    "static/media/phone.b064c002.png": "/static/media/phone.b064c002.png",
+    "static/media/tezo.ee19d7ef.png": "/static/media/tezo.ee19d7ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70f4e584.js",
+    "static/js/2.d6070dca.chunk.js",
+    "static/css/main.c2083471.chunk.css",
+    "static/js/main.0b62c52d.chunk.js"
+  ]
+}

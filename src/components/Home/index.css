@@ -1,0 +1,137 @@
+@import url("https://fonts.googleapis.com/css2?family=Hahmlet:wght@600&display=swap");
+
+.wrapper {
+  max-width: 100%;
+  padding: 0.4rem;
+  background: white;
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.wrapper:hover,
+.wrapper.focus {
+  box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+}
+.search {
+  display: flex;
+  height: 1.6em;
+  align-items: center;
+}
+.search input {
+  flex: 1;
+  width: 100%;
+  border: 0;
+}
+.search i {
+  color: tomato;
+}
+:focus {
+  outline: none;
+}
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 1.5em;
+  border-top: 1px solid lightgray;
+  max-height: 0;
+  overflow: hidden;
+  overflow-y: auto;
+  animation: enlarge 0.25s forwards;
+}
+.list li {
+  margin-right: -1.5em;
+  margin-left: -1.5em;
+  padding: 0 1.5em;
+  line-height: 1.5;
+  cursor: pointer;
+}
+.list li:hover {
+  background: whitesmoke;
+}
+.result {
+  display: flex;
+  align-items: center;
+}
+.result b {
+  margin-right: 0.5em;
+}
+.result span {
+  margin: 0 0.5em;
+  width: 1em;
+  height: 1em;
+  border-radius: 0.5em;
+}
+
+#search::placeholder {
+  padding-left: 10px;
+  color: black;
+}
+@keyframes enlarge {
+  to {
+    max-height: 10em;
+  }
+}
+
+.css-1773qhf {
+  padding-inline-start: 0rem;
+  padding-inline-end: 0rem;
+}
+
+.mainfont {
+  font-family: "Hahmlet", serif !important;
+}
+
+.h-btn:hover {
+  color: #3b3a3a;
+}
+
+@media (max-width: 500px) {
+  .preds {
+    font-size: 10px;
+  }
+}
+
+.select-option {
+  background-color: red;
+}
+
+.links:focus {
+  outline: none !important;
+}
+
+@media only screen and (max-width: 1188px) and (min-width: 992px) {
+  .predictionName {
+    font-size: 13px !important;
+  }
+
+  .topBox {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    width: 32% !important;
+  }
+
+  .circle {
+    margin-left: 5px;
+    padding-top: 9px !important;
+    padding-bottom: 9px !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+  }
+}
+
+@media only screen and (max-width: 1143px) and (min-width: 992px) {
+  .phoneImg {
+    height: 605px !important;
+  }
+
+  .HeroSection {
+    padding-bottom: 10vh !important;
+  }
+}
+
+@media (max-width: 350px) {
+  .predictionName {
+    font-size: 13px !important;
+  }
+}

@@ -1,0 +1,22 @@
+.or {
+  color: #9c4fff;
+}
+
+.main {
+  position: relative !important;
+}
+
+.title {
+  position: absolute !important;
+
+  z-index: 99999 !important;
+  top: 12%;
+  left: 12%;
+}
+
+.imageblog {
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  border-top-left-radius: 45%;
+  border-bottom-left-radius: 45%;
+}
