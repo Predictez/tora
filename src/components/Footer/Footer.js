@@ -133,19 +133,14 @@ export default function Footer() {
                 Disclaimers
               </Heading>
               <Text className="footer" fontSize={{ md: 'sm', lg: 'sm' }}>
-                The Predictor website (“Site”) is for informational and
+                The T-ORA website (“Site”) is for informational and
                 educational purposes only. The Site displays existing markets
                 deployed on the Tezos blockchain and is a graphical user
                 interface for both visualizing data from on-chain activity and
                 interacting with smart contracts directly from your own Tezos
-                wallet. Predictor takes no custody of users' crypto assets and
-                does not host any markets. None of the material on the Site is
-                intended to be, nor does it constitute, a solicitation,
-                recommendation or offer to buy or sell any security, commodity
-                interest, derivative, financial product or instrument. Users are
-                responsible for complying with all applicable laws and should
-                conduct their own analysis and consult with professional
-                advisors prior to entering into any smart contracts.
+                wallet. Users are responsible for complying with all applicable 
+                laws and should conduct their own analysis and consult with 
+                professional advisors prior to entering into any smart contracts.
               </Text>
             </Flex>
           </Box>
