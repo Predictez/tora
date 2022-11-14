@@ -77,7 +77,7 @@ const How = () => {
               href="https://medium.com/@karthi1908/t-ora-ce2983df5396"
               _focus={{ outline: 'none' }}
             >
-              Getting started with Predictor
+              Getting started with T-ORA
             </Link>
             <br></br>
 
