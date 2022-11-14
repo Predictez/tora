@@ -77,7 +77,7 @@ const Contact = () => {
             Talk To Us
           </Heading>
           <Flex justifyContent="center" flexDirection="row" alignItems="center">
-            <Link href="https://twitter.com/DaoPredictor">
+            <Link href="https://twitter.com/TORA_tez">
               <Image height="70px" px="6" src={twitter} />
             </Link>
             <Link href="https://t.me/predictor_tez">
