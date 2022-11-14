@@ -87,11 +87,11 @@ const How = () => {
                   fontSize="3xl"
                   textAlign="left"
                   lineHeight="1"
-                  href="https://medium.com/@karthi1908/predictor-c90398056061"
+                  href="https://medium.com/@karthi1908/t-ora-ce2983df5396"
                   zIndex="999"
                   _focus={{ outline: 'none' }}
                 >
-                  Getting Started with Predictor
+                  T-ORA Introduction
                 </Link>
               </Box>
 
@@ -150,10 +150,10 @@ const How = () => {
                   fontSize="3xl"
                   textAlign="left"
                   lineHeight="1"
-                  href="https://medium.com/coinmonks/predictor-da7efb0163ca"
+                  href=""
                   _focus={{ outline: 'none' }}
                 >
-                  The Decentralised Prediction Markets on Tezos
+                  The Decentralised Fact Checking Platform on Tezos
                 </Link>
               </Box>
 
@@ -212,10 +212,10 @@ const How = () => {
                   fontSize="3xl"
                   textAlign="left"
                   lineHeight="1"
-                  href="https://medium.com/@karthi1908/predictor-d01e6c67de0e"
+                  href=""
                   _focus={{ outline: 'none' }}
                 >
-                  How to buy / trade predictions on Predictor?
+                  How to use T-ORA?
                 </Link>
               </Box>
 
