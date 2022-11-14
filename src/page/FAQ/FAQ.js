@@ -96,17 +96,16 @@ const FAQ = () => {
                   <h2>
                     <AccordionButton>
                       <Box flex="1" textAlign="left">
-                        What is Predictor?
+                        What is T-ORA?
                       </Box>
                       <AccordionIcon />
                     </AccordionButton>
                   </h2>
                   <AccordionPanel pb={4}>
-                    It is a decentralized prediction market platform that people
-                    can use to create predictions and trade FA2 tokens. The
-                    Predictor is intended for the dissemination of information
-                    and education. The Site displays live markets deployed on
-                    the Tezos blockchain.
+                    It is a decentralized Fact Checking platform that people
+                    can use to debunk fake news. The  T-ORA is intended for 
+                    the dissemination of information and education. 
+                    The Site is deployed on the Tezos blockchain.
                   </AccordionPanel>
                 </AccordionItem>
 
@@ -150,17 +149,14 @@ const FAQ = () => {
                   <h2>
                     <AccordionButton>
                       <Box flex="1" textAlign="left">
-                        How does the Predictor work?
+                        How does the T-ORA work?
                       </Box>
                       <AccordionIcon />
                     </AccordionButton>
                   </h2>
                   <AccordionPanel pb={4}>
-                    The Predictor does not host any market but only to provide
-                    the interface to view available markets. The Predictor is
-                    intended for the dissemination of information and education.
-                    The Site displays live markets deployed on the Tezos
-                    blockchain.
+                    The T-ORA is deployed on the Tezos blockchain
+                    and works on the basis of widosm of crowd.
                   </AccordionPanel>
                 </AccordionItem>
 
@@ -213,7 +209,7 @@ const FAQ = () => {
                   <AccordionPanel pb={4}>
                     Users are responsible for ensuring that they comply with all
                     applicable laws and should do their own research before
-                    creating any smart contracts. <br></br>This FAQ is meant to
+                    interacting with any smart contracts. <br></br>This FAQ is meant to
                     provide general information about information market
                     platforms. If you have specific questions about a particular
                     platform, please contact the platform directly.
