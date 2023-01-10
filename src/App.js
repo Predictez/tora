@@ -46,7 +46,7 @@ function App() {
       //   console.log(key);
       //   console.log(storage.predictTokenDetails.get(key));
       // }
-      for (let pred = 0; pred < counter; pred++) {
+      for (let pred = 1; pred < counter; pred++) {
          await predictions.get(pred).then(value => { predList.push({ id: pred, 
 								news : bytes2Char(value.news), 
 								finalResult : value.finalResult, 
